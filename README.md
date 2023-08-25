@@ -2,6 +2,8 @@
 
 If you want a highly efficient end-to-end testing automation tool, Playwright is undoubtedly your best bet. You can turn your framework behaviour driven (Gherkin) by incorporating python behave. This solution significantly adds value to your tests, making them reusable and more readable.
 
+In this test, we will be using a test website "https://www.saucedemo.com/"
+
 ## Requirements:
 1. Python at least v 3.10
 2. pip
